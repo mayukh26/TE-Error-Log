@@ -1,7 +1,7 @@
 {
   "name": "TE Error Log",
   "description": "A barebones .Net Application",
-  "repository": "https://github.com/heroku/node-js-sample",
+  "repository": "https://github.com/mayukh26/TE-Error-Log.git",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["node", "express", "static"]
+  "keywords": [".net", "express", "static"]
 }
